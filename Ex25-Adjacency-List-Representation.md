@@ -13,8 +13,8 @@ To write a C program to represent the given graph using the adjacency list.
 ```
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: Harshini Y
-RegisterNumber:  212223240050
+Developed by: GURUMURTHY S
+RegisterNumber:  212223230066
 */
 int main(void)
 { int n,i; scanf("%d",&N);
